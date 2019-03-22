@@ -1,0 +1,10 @@
+{
+	"name": "YouTubeDownloader",
+	"description": "Téléchargez des vidéos YouTube facilement et gratuitement !",
+	"developer": "KyloRen3600",
+	"version": "1.0.0",
+	"build": "001",
+	"folder": "./Apps/YouTubeDownloader",
+	"exe": "YouTubeDownloader.exe",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png"
+}
