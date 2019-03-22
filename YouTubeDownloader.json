@@ -6,7 +6,7 @@
 	"build": "011",
 	"folder": "./Apps/YouTubeDownloader",
 	"exe": "YouTubeDownloader.exe",
-	"size": "8",
+	"size": "100",
 	"version-url": "https://raw.githubusercontent.com/nothinggames/YouTubeDownloader/master/YouTubeDownloader.json",
 	"download-url": "https://github.com/nothinggames/YouTubeDownloader/archive/master.zip",
 	"logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png"
