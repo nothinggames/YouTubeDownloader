@@ -1,12 +1,14 @@
 {
+	"id": "YTDOWNLOADER",
 	"name": "YouTubeDownloader",
 	"description": "Téléchargez des vidéos YouTube facilement et gratuitement !",
 	"developer": "KyloRen3600",
 	"version": "0.0.1",
-	"build": "011",
+	"build": "024",
 	"folder": "./Apps/YouTubeDownloader",
 	"exe": "YouTubeDownloader.exe",
 	"size": "8",
+	"extract": "YouTubeDownloader-master",
 	"version-url": "https://raw.githubusercontent.com/nothinggames/YouTubeDownloader/master/YouTubeDownloader.json",
 	"download-url": "https://github.com/nothinggames/YouTubeDownloader/archive/master.zip",
 	"logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png"
